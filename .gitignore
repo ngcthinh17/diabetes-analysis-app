@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Envs
+.venv/
+.env/
+
+# OS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Reports
+*.pdf
+!docs/report.pdf

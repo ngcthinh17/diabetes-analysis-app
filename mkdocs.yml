@@ -1,0 +1,15 @@
+
+site_name: Diabetes Analysis App
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - content.code.copy
+nav:
+  - Home: docs/index.md
+  - Setup: docs/setup.md
+  - Usage: docs/usage.md
+  - Demo: docs/demo.md
+  - Contributions: docs/contributions.md
+  - Report: docs/report.pdf
