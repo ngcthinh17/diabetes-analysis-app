@@ -1,6 +1,6 @@
 # Diabetes Analysis App (Course Project Scaffold)
 
-A clean, organized **Streamlit** project structure for your course topics:
+A clean, organized **Streamlit** project structure: 
 
 ## Topics (choose one)
 1. Re-implement your previous Train C project (plug into this scaffold).
