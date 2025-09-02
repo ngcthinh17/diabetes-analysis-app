@@ -10,13 +10,6 @@ paginate: true
 - Course project scaffold
 - Streamlit multi-page
 - SMOTE, Ensembles, Hyperparameter Search
-
----
-
-## Problem & Goal
-- What question are we answering?
-- Why does it matter? (health, screening)
-
 ---
 
 ## Dataset
@@ -48,13 +41,4 @@ paginate: true
 - Single prediction
 
 ---
-
-## Contributions
-- Member A: EDA
-- Member B: Modeling
-- Member C: Ensembles
-- Member D: Docs & Deploy
-
----
-
 ## Q&A
